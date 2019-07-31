@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+}
+
+body{
+}
+
+ul{}
+
+li{
+	float: left;
+	overflow: hidden;
+}
+
+a{
+	color: #333;
+	text-decoration: none;
+}
+
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
+
+.cl{
+	clear: both;
+}
+
+.bl{
+	display: block;
+}
